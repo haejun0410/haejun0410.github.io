@@ -1,15 +1,15 @@
-title: example.com
+title: YOBI's Devlog
 description: "Satellite - jekyll blog theme"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
+email: haejun0410@gmail.com
 github_username: github
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+#twitter_username: twitter
+#instagram_username: instagram
+#linkedin_username: linkedin
+#facebook_username: facebook
 
 # External API
 giscus_repo: "byanko55/jekyll-theme-satellite"
